@@ -1,0 +1,40 @@
+// @font-face {
+//   font-family: 'Atlassian';
+//   src: url('@/assets/fonts/Atlassian.ttf') format('truetype');
+// }
+
+// .custom-font {
+//   font-family: 'Atlassian', 'Helvetica Neue', Arial, sans-serif;
+// }
+.text-custom {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  color: #000;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  /* Increase the font weight to make it bolder */
+}
+
+.back-button:hover {
+  background-color: #f0f0f0;
+}
+
+.icon {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.25rem;
+  /* Adjust spacing as needed */
+}

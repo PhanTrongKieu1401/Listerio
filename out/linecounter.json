@@ -1,0 +1,830 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Thuctaphe\\GHTK\\Jira Clone\\JiraTypescript",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-07-25 21:16:42",
+            "filesum": 121,
+            "codesum": 7790,
+            "commentsum": 118,
+            "blanksum": 486,
+            "statistics": {
+                ".json": {
+                    "code": 3109,
+                    "comment": 2,
+                    "blank": 81
+                },
+                ".js": {
+                    "code": 441,
+                    "comment": 64,
+                    "blank": 10
+                },
+                ".ts": {
+                    "code": 576,
+                    "comment": 22,
+                    "blank": 62
+                },
+                ".vue": {
+                    "code": 1892,
+                    "comment": 4,
+                    "blank": 233
+                },
+                ".scss": {
+                    "code": 213,
+                    "comment": 11,
+                    "blank": 33
+                },
+                ".html": {
+                    "code": 29,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 14,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".md": {
+                    "code": 476,
+                    "comment": 0,
+                    "blank": 52
+                },
+                ".csv": {
+                    "code": 240,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".svg": {
+                    "code": 330,
+                    "comment": 1,
+                    "blank": 1
+                },
+                ".txt": {
+                    "code": 468,
+                    "comment": 0,
+                    "blank": 12
+                },
+                ".css": {
+                    "code": 2,
+                    "comment": 5,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 6,
+                    "code": 55,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\details.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\diff-details.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\diff.csv"
+                },
+                {
+                    "blank": 7,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\diff.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\diff.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\results.csv"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\results.json"
+                },
+                {
+                    "blank": 7,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\results.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 95,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-17_17-51-34\\results.txt"
+                },
+                {
+                    "blank": 6,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\details.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 125,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\diff-details.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 118,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\diff.csv"
+                },
+                {
+                    "blank": 7,
+                    "code": 92,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\diff.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 215,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\diff.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\results.csv"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\results.json"
+                },
+                {
+                    "blank": 7,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\results.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 139,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter\\2024-07-25_21-15-16\\results.txt"
+                },
+                {
+                    "filename": "dist\\assets\\atlassian-CQ0xqDIS.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\assets\\bg_auth-CiDaiSEY.svg"
+                },
+                {
+                    "filename": "dist\\assets\\fa-brands-400-Ch568Ea9.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-brands-400-DHHcbFjz.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-regular-400-9VThgXHM.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-regular-400-C54-fRIQ.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-solid-900-Cm9M9sZB.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-solid-900-QWY35r5r.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-v4compatibility-BRdYr4HJ.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\fa-v4compatibility-DLBX5pNp.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist\\assets\\Hero-CpX1glxL.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "dist\\assets\\index-CceH155Y.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\assets\\index-JMqFFv_e.css"
+                },
+                {
+                    "filename": "dist\\assets\\Jira_Logo-M-sOWFXI.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 5,
+                    "filename": "dist\\assets\\vendor-BLTtbGVA.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 306,
+                    "comment": 30,
+                    "filename": "dist\\assets\\vendor-Dqozlkdx.js"
+                },
+                {
+                    "filename": "dist\\assets\\workflow_img-DBoIKuR0.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "dist\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\vite.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 79,
+                    "code": 3029,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "postcss.config.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\api\\auth.ts"
+                },
+                {
+                    "blank": 11,
+                    "code": 97,
+                    "comment": 3,
+                    "filename": "src\\api\\forgotPassword.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 1,
+                    "filename": "src\\api\\getAllproject.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 37,
+                    "comment": 2,
+                    "filename": "src\\api\\index.ts"
+                },
+                {
+                    "blank": 12,
+                    "code": 101,
+                    "comment": 3,
+                    "filename": "src\\api\\register.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src\\App.vue"
+                },
+                {
+                    "filename": "src\\assets\\img\\atlassian.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\atlassian.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\automate.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\bg_auth.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\bug_tracking.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 211,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\devops.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\document.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\filter.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\Hero.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\icon-workflow.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\Jira_Logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\jira_logo.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\kanban.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\logo_no_text.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\new-collaborate-1.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\new-collaborate-2.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\plan.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 30,
+                    "comment": 1,
+                    "filename": "src\\assets\\img\\project_logo.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\release.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\report.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\assets\\img\\scrum.svg"
+                },
+                {
+                    "filename": "src\\assets\\img\\signal.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\track.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\assets\\img\\workflow_img.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 2,
+                    "filename": "src\\assets\\main.scss"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\forgotPassword\\Forgot\\index.scss"
+                },
+                {
+                    "blank": 12,
+                    "code": 90,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\forgotPassword\\Forgot\\index.vue"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\forgotPassword\\ForgotForm\\index.scss"
+                },
+                {
+                    "blank": 22,
+                    "code": 155,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\forgotPassword\\ForgotForm\\index.vue"
+                },
+                {
+                    "blank": 6,
+                    "code": 41,
+                    "comment": 3,
+                    "filename": "src\\components\\auth\\forgotPassword\\ValidForgot\\index.scss"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\forgotPassword\\ValidForgot\\index.vue"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\Login\\index.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\Login\\index.vue"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\regis\\Regisform\\index.scss"
+                },
+                {
+                    "blank": 18,
+                    "code": 147,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\regis\\Regisform\\index.vue"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\regis\\Register\\index.scss"
+                },
+                {
+                    "blank": 14,
+                    "code": 97,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\regis\\Register\\index.vue"
+                },
+                {
+                    "blank": 6,
+                    "code": 41,
+                    "comment": 3,
+                    "filename": "src\\components\\auth\\regis\\Valid\\index.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\auth\\regis\\Valid\\index.vue"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\components\\board\\index.scss"
+                },
+                {
+                    "blank": 24,
+                    "code": 150,
+                    "comment": 2,
+                    "filename": "src\\components\\board\\index.vue"
+                },
+                {
+                    "blank": 13,
+                    "code": 156,
+                    "comment": 0,
+                    "filename": "src\\components\\board\\OldBoard.vue"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\components\\mainpage\\modal\\FilterModal\\index.vue"
+                },
+                {
+                    "blank": 6,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "src\\components\\mainpage\\modal\\ProjectModal\\index.vue"
+                },
+                {
+                    "blank": 10,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\components\\mainpage\\modal\\TeamModal\\index.vue"
+                },
+                {
+                    "blank": 14,
+                    "code": 81,
+                    "comment": 1,
+                    "filename": "src\\components\\mainpage\\modal\\YourWorkModal\\index.vue"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\ItemTask\\index.scss"
+                },
+                {
+                    "blank": 8,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\ItemTask\\index.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\ItemTask\\OldItemTask.vue"
+                },
+                {
+                    "blank": 14,
+                    "code": 91,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\MainNavbar\\index.vue"
+                },
+                {
+                    "blank": 6,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\Navbar\\index.vue"
+                },
+                {
+                    "blank": 12,
+                    "code": 127,
+                    "comment": 0,
+                    "filename": "src\\components\\shared\\Sidebar\\index.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 70,
+                    "comment": 0,
+                    "filename": "src\\constants\\homeInfo.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 26,
+                    "comment": 4,
+                    "filename": "src\\constants\\itemTask.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "src\\main.ts"
+                },
+                {
+                    "blank": 10,
+                    "code": 101,
+                    "comment": 33,
+                    "filename": "src\\router\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\stores\\authStores\\authStore.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 44,
+                    "comment": 3,
+                    "filename": "src\\stores\\authStores\\forgotStore.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 53,
+                    "comment": 1,
+                    "filename": "src\\stores\\authStores\\regisStore.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src\\stores\\index.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 3,
+                    "filename": "src\\views\\AllProject\\index.scss"
+                },
+                {
+                    "blank": 18,
+                    "code": 215,
+                    "comment": 1,
+                    "filename": "src\\views\\AllProject\\index.vue"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\views\\Author\\index.vue"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\views\\Home\\index.scss"
+                },
+                {
+                    "blank": 16,
+                    "code": 136,
+                    "comment": 0,
+                    "filename": "src\\views\\Home\\index.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\views\\Mainpage\\index.vue"
+                },
+                {
+                    "blank": 5,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\views\\Project\\index.vue"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 1,
+                    "filename": "tailwind.config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 2,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        }
+    ]
+}

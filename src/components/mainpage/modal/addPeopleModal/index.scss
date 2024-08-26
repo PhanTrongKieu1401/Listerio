@@ -1,0 +1,11 @@
+.add-people {
+    width: 354px;
+    height: 300px;
+    margin: 0px 23px;
+}
+.add-people-content {
+    padding: 16px;
+  }
+  .custom-modal .ant-modal-mask {
+    @apply bg-blue-600; /* Màu xanh nền của lớp phủ */
+  }

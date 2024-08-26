@@ -1,0 +1,12 @@
+.input-field {
+
+
+    &:focus {
+        border-width: 1px;
+        border-color: #3b82f6;
+        /* Blue color for focus */
+        outline: none;
+        /* Remove default focus outline */
+        box-shadow: inset 0 0 0 1px rgba(29, 78, 216, 0.2);
+    }
+}

@@ -1,0 +1,21 @@
+// Định nghĩa biến màu (tuỳ chọn)
+$focus-border-color: #3b82f6;
+$focus-box-shadow: #2563eb;
+$hover-background-color: #f0f0f0;
+$border-color: #d9d9d9; // Màu cho các vạch kẻ
+$border-width: 2px; // Độ dày của vạch kẻ
+
+.text-custom {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+.input-field {
+  &:focus {
+    border-color: $focus-border-color;
+    outline: none;
+    border-width: 1px;
+    box-shadow: inset 0 0 0 1px $focus-box-shadow;
+  }
+}

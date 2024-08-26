@@ -1,0 +1,18 @@
+.font-charlie-display {
+    font-family: 'Charlie Display', sans-serif;
+}
+
+.font-charlie {
+    font-family: 'Charlie Text', sans-serif;
+}
+
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+    transition: opacity 0.2s ease-in, transform 0.2s ease-in;
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+    opacity: 0;
+    transform: translateX(-20px);
+}

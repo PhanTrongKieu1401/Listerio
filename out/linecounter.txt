@@ -1,0 +1,149 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-07-25 21:16:42
+count workspace : c:\Thuctaphe\GHTK\Jira Clone\JiraTypescript
+total files : 121
+total code lines : 7790
+total comment lines : 118
+total blank lines : 486
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|           3109|              2|             81|     40|
+   |            .js|            441|             64|             10|    5.7|
+   |            .ts|            576|             22|             62|    7.4|
+   |           .vue|           1892|              4|            233|     24|
+   |          .scss|            213|             11|             33|    2.7|
+   |          .html|             29|              0|              0|   0.37|
+   |               |             14|              9|              2|   0.18|
+   |            .md|            476|              0|             52|    6.1|
+   |           .csv|            240|              0|              0|    3.1|
+   |           .svg|            330|              1|              1|    4.2|
+   |           .txt|            468|              0|             12|    6.0|
+   |           .css|              2|              5|              0|  0.026|
+   -------------------------------------------------------------------------
+.gitignore, code is 14, comment is 9, blank is 2.
+.VSCodeCounter\2024-07-17_17-51-34\details.md, code is 55, comment is 0, blank is 6.
+.VSCodeCounter\2024-07-17_17-51-34\diff-details.md, code is 9, comment is 0, blank is 6.
+.VSCodeCounter\2024-07-17_17-51-34\diff.csv, code is 2, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-17_17-51-34\diff.md, code is 12, comment is 0, blank is 7.
+.VSCodeCounter\2024-07-17_17-51-34\diff.txt, code is 19, comment is 0, blank is 3.
+.VSCodeCounter\2024-07-17_17-51-34\results.csv, code is 48, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-17_17-51-34\results.json, code is 1, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-17_17-51-34\results.md, code is 42, comment is 0, blank is 7.
+.VSCodeCounter\2024-07-17_17-51-34\results.txt, code is 95, comment is 0, blank is 3.
+.VSCodeCounter\2024-07-25_21-15-16\details.md, code is 79, comment is 0, blank is 6.
+.VSCodeCounter\2024-07-25_21-15-16\diff-details.md, code is 125, comment is 0, blank is 6.
+.VSCodeCounter\2024-07-25_21-15-16\diff.csv, code is 118, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-25_21-15-16\diff.md, code is 92, comment is 0, blank is 7.
+.VSCodeCounter\2024-07-25_21-15-16\diff.txt, code is 215, comment is 0, blank is 3.
+.VSCodeCounter\2024-07-25_21-15-16\results.csv, code is 72, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-25_21-15-16\results.json, code is 1, comment is 0, blank is 0.
+.VSCodeCounter\2024-07-25_21-15-16\results.md, code is 62, comment is 0, blank is 7.
+.VSCodeCounter\2024-07-25_21-15-16\results.txt, code is 139, comment is 0, blank is 3.
+dist\assets\atlassian-CQ0xqDIS.png, it is a binary file.
+dist\assets\bg_auth-CiDaiSEY.svg, code is 1, comment is 0, blank is 0.
+dist\assets\fa-brands-400-Ch568Ea9.woff2, it is a binary file.
+dist\assets\fa-brands-400-DHHcbFjz.ttf, it is a binary file.
+dist\assets\fa-regular-400-9VThgXHM.woff2, it is a binary file.
+dist\assets\fa-regular-400-C54-fRIQ.ttf, it is a binary file.
+dist\assets\fa-solid-900-Cm9M9sZB.ttf, it is a binary file.
+dist\assets\fa-solid-900-QWY35r5r.woff2, it is a binary file.
+dist\assets\fa-v4compatibility-BRdYr4HJ.woff2, it is a binary file.
+dist\assets\fa-v4compatibility-DLBX5pNp.ttf, it is a binary file.
+dist\assets\Hero-CpX1glxL.png, it is a binary file.
+dist\assets\index-CceH155Y.js, code is 5, comment is 0, blank is 0.
+dist\assets\index-JMqFFv_e.css, code is 1, comment is 0, blank is 0.
+dist\assets\Jira_Logo-M-sOWFXI.png, it is a binary file.
+dist\assets\vendor-BLTtbGVA.css, code is 1, comment is 5, blank is 0.
+dist\assets\vendor-Dqozlkdx.js, code is 306, comment is 30, blank is 0.
+dist\assets\workflow_img-DBoIKuR0.png, it is a binary file.
+dist\index.html, code is 16, comment is 0, blank is 0.
+dist\vite.svg, code is 1, comment is 0, blank is 0.
+index.html, code is 13, comment is 0, blank is 0.
+package-lock.json, code is 3029, comment is 0, blank is 79.
+package.json, code is 31, comment is 0, blank is 0.
+postcss.config.js, code is 6, comment is 0, blank is 0.
+src\api\auth.ts, code is 36, comment is 0, blank is 3.
+src\api\forgotPassword.ts, code is 97, comment is 3, blank is 11.
+src\api\getAllproject.ts, code is 30, comment is 1, blank is 3.
+src\api\index.ts, code is 37, comment is 2, blank is 8.
+src\api\register.ts, code is 101, comment is 3, blank is 12.
+src\App.vue, code is 3, comment is 0, blank is 0.
+src\assets\img\atlassian.png, it is a binary file.
+src\assets\img\atlassian.svg, code is 29, comment is 0, blank is 1.
+src\assets\img\automate.png, it is a binary file.
+src\assets\img\bg_auth.svg, code is 1, comment is 0, blank is 0.
+src\assets\img\bug_tracking.svg, code is 40, comment is 0, blank is 0.
+src\assets\img\devops.svg, code is 211, comment is 0, blank is 0.
+src\assets\img\document.svg, code is 6, comment is 0, blank is 0.
+src\assets\img\filter.svg, code is 1, comment is 0, blank is 0.
+src\assets\img\Hero.png, it is a binary file.
+src\assets\img\icon-workflow.svg, code is 6, comment is 0, blank is 0.
+src\assets\img\Jira_Logo.png, it is a binary file.
+src\assets\img\jira_logo.svg, code is 2, comment is 0, blank is 0.
+src\assets\img\kanban.svg, code is 1, comment is 0, blank is 0.
+src\assets\img\logo_no_text.png, it is a binary file.
+src\assets\img\new-collaborate-1.webp, it is a binary file.
+src\assets\img\new-collaborate-2.webp, it is a binary file.
+src\assets\img\plan.png, it is a binary file.
+src\assets\img\project_logo.svg, code is 30, comment is 1, blank is 0.
+src\assets\img\release.png, it is a binary file.
+src\assets\img\report.png, it is a binary file.
+src\assets\img\scrum.svg, code is 1, comment is 0, blank is 0.
+src\assets\img\signal.webp, it is a binary file.
+src\assets\img\track.png, it is a binary file.
+src\assets\img\workflow_img.png, it is a binary file.
+src\assets\main.scss, code is 5, comment is 2, blank is 1.
+src\components\auth\forgotPassword\Forgot\index.scss, code is 19, comment is 0, blank is 3.
+src\components\auth\forgotPassword\Forgot\index.vue, code is 90, comment is 0, blank is 12.
+src\components\auth\forgotPassword\ForgotForm\index.scss, code is 19, comment is 0, blank is 3.
+src\components\auth\forgotPassword\ForgotForm\index.vue, code is 155, comment is 0, blank is 22.
+src\components\auth\forgotPassword\ValidForgot\index.scss, code is 41, comment is 3, blank is 6.
+src\components\auth\forgotPassword\ValidForgot\index.vue, code is 26, comment is 0, blank is 3.
+src\components\auth\Login\index.scss, code is 19, comment is 0, blank is 3.
+src\components\auth\Login\index.vue, code is 30, comment is 0, blank is 5.
+src\components\auth\regis\Regisform\index.scss, code is 19, comment is 0, blank is 3.
+src\components\auth\regis\Regisform\index.vue, code is 147, comment is 0, blank is 18.
+src\components\auth\regis\Register\index.scss, code is 19, comment is 0, blank is 3.
+src\components\auth\regis\Register\index.vue, code is 97, comment is 0, blank is 14.
+src\components\auth\regis\Valid\index.scss, code is 41, comment is 3, blank is 6.
+src\components\auth\regis\Valid\index.vue, code is 29, comment is 0, blank is 0.
+src\components\board\index.scss, code is 0, comment is 0, blank is 0.
+src\components\board\index.vue, code is 150, comment is 2, blank is 24.
+src\components\board\OldBoard.vue, code is 156, comment is 0, blank is 13.
+src\components\mainpage\modal\FilterModal\index.vue, code is 33, comment is 0, blank is 8.
+src\components\mainpage\modal\ProjectModal\index.vue, code is 53, comment is 0, blank is 6.
+src\components\mainpage\modal\TeamModal\index.vue, code is 36, comment is 0, blank is 10.
+src\components\mainpage\modal\YourWorkModal\index.vue, code is 81, comment is 1, blank is 14.
+src\components\shared\ItemTask\index.scss, code is 0, comment is 0, blank is 0.
+src\components\shared\ItemTask\index.vue, code is 68, comment is 0, blank is 8.
+src\components\shared\ItemTask\OldItemTask.vue, code is 76, comment is 0, blank is 2.
+src\components\shared\MainNavbar\index.vue, code is 91, comment is 0, blank is 14.
+src\components\shared\Navbar\index.vue, code is 45, comment is 0, blank is 6.
+src\components\shared\Sidebar\index.vue, code is 127, comment is 0, blank is 12.
+src\constants\homeInfo.ts, code is 70, comment is 0, blank is 2.
+src\constants\itemTask.ts, code is 26, comment is 4, blank is 1.
+src\main.ts, code is 12, comment is 2, blank is 3.
+src\router\index.js, code is 101, comment is 33, blank is 10.
+src\stores\authStores\authStore.ts, code is 45, comment is 0, blank is 2.
+src\stores\authStores\forgotStore.ts, code is 44, comment is 3, blank is 5.
+src\stores\authStores\regisStore.ts, code is 53, comment is 1, blank is 8.
+src\stores\index.ts, code is 3, comment is 0, blank is 2.
+src\views\AllProject\index.scss, code is 16, comment is 3, blank is 2.
+src\views\AllProject\index.vue, code is 215, comment is 1, blank is 18.
+src\views\Author\index.vue, code is 11, comment is 0, blank is 1.
+src\views\Home\index.scss, code is 15, comment is 0, blank is 3.
+src\views\Home\index.vue, code is 136, comment is 0, blank is 16.
+src\views\Mainpage\index.vue, code is 10, comment is 0, blank is 2.
+src\views\Project\index.vue, code is 27, comment is 0, blank is 5.
+src\vite-env.d.ts, code is 5, comment is 1, blank is 1.
+tailwind.config.js, code is 23, comment is 1, blank is 0.
+tsconfig.app.json, code is 23, comment is 2, blank is 2.
+tsconfig.json, code is 11, comment is 0, blank is 0.
+tsconfig.node.json, code is 13, comment is 0, blank is 0.
+vite.config.ts, code is 17, comment is 2, blank is 1.
+===============================================================================
